@@ -42,7 +42,9 @@ Output laporan JSON Lengkap ✓
 
 ## Instalasi
 
-Pastikan Python **3.8+** sudah terinstall!
-
 ```bash
 pip install requests beautifulsoup4 colorama tabulate esprima
+git clone https://github.com/opettt-hash/XSSREFLECTOR.git
+cd XSSREFLECTOR
+python XSS_REFLECTOR.py
+```
