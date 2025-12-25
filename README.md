@@ -1,4 +1,6 @@
-# XSS Reflector 
+# XSS Reflector
+
+<img src="ss.jpg" alt="IP Result" width="100%">
 
 **XSS Reflector** Adalah Tools Otomatis Untuk **Mendeteksi Kerentanan Cross-Site Scripting (XSS)** Dengan Pendekatan **HYBRID**
 - Reflected XSS
