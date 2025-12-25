@@ -1,6 +1,6 @@
-# XSS Reflector (XSS Pro Max)
+# XSS Reflector 
 
-**XSS Reflector** adalah tools otomatis untuk **mendeteksi kerentanan Cross-Site Scripting (XSS)** dengan pendekatan **hybrid**:
+**XSS Reflector** adalah tools otomatis untuk **mendeteksi kerentanan Cross-Site Scripting (XSS)** dengan pendekatan **hybrid**
 - Reflected XSS
 - Static DOM-based XSS
 - Endpoint discovery dari JavaScript
