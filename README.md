@@ -49,4 +49,5 @@ cd XSSREFLECTOR
 python XSS_REFLECTOR.py
 ```
 
-## Tool ini dibuat hanya untuk tujuan edukasi dan pengujian keamanan yang sah!
+## Peringatan 
+Tool ini dibuat hanya untuk tujuan edukasi dan pengujian keamanan yang sah, gunakan hanya pada target yang di ijinkan !
