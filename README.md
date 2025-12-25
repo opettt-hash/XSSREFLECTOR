@@ -1,33 +1,33 @@
 # XSS Reflector 
 
-**XSS Reflector** adalah tools otomatis untuk **mendeteksi kerentanan Cross-Site Scripting (XSS)** dengan pendekatan **hybrid**
+**XSS Reflector** Adalah Tools Otomatis Untuk **Mendeteksi Kerentanan Cross-Site Scripting (XSS)** Dengan Pendekatan **HYBRID**
 - Reflected XSS
-- Static DOM-based XSS
-- Endpoint discovery dari JavaScript
+- Static DOM-Based XSS
+- Endpoint Discovery Dari JavaScript
 - Analisis Content Security Policy (CSP)
-- Deteksi indikasi WAF
+- Deteksi Indikasi WAF
 
-Tool ini dirancang untuk **bug bounty, pentesting, dan security research**.
+Tool Ini Dirancang Untuk **Bug Bounty, Pentesting, Dan Security Research**
 
 ---
 
 ## Fitur Utama
 
- Ekstraksi endpoint dari
-- HTML forms
-- JavaScript (fetch, axios, jQuery, WebSocket, dll)
+ Ekstraksi Endpoint Dari
+- HTML Forms
+- JavaScript (Fetch, Axios, JQuery, WebSocket, Dll)
 
- Payload XSS pintar
-- Raw payload
-- URL encoded
-- Base64 encoded
-- Payload mutation (WAF bypass dll)
+ Payload XSS Pintar
+- Raw Payload
+- URL Encoded
+- Base64 Encoded
+- Payload Mutation (WAF Bypass Dll)
 
 Deteksi
 - Reflected XSS
 - Context (HTML / Attribute / JS)
 - Static DOM XSS (source → sink)
-- CSP lemah (`unsafe-inline`, `unsafe-eval`)
+- CSP Lemah (`unsafe-inline`, `unsafe-eval`)
 - WAF (403 / 406)
 
 Severity Scoring
@@ -36,7 +36,7 @@ Severity Scoring
 - HIGH
 - CRITICAL
 
-Output laporan JSON Lengkap ✓
+Output Laporan JSON Lengkap ✓
 
 ---
 
@@ -50,4 +50,4 @@ python XSS_REFLECTOR.py
 ```
 
 ## Peringatan 
-Tool ini dibuat hanya untuk tujuan edukasi dan pengujian keamanan yang sah, gunakan hanya pada target yang di ijinkan !
+Tool Ini Dibuat Hanya Untuk Tujuan Edukasi Dan Pengujian Keamanan Yang Sah, Gunakan Hanya Pada Target Yang Di Ijinkan !
